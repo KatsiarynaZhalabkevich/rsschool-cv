@@ -23,3 +23,20 @@ Java SE, Java EE (Servlet + JSP, JSF + PrimeFaces), Junit, Mockito, Maven, Tomca
 
 ## Experiance
 **August 2010 – August 2019** – Senior lecturer at the department of Mathematics, Military Academy of the Republic of Belarus
+
+## Education
+>- **September 2019 – February 2020** – Educational Center of EPAM sys.
+Course: Introduction to Java, Java Web Development
+>- **June 2019 – July 2020** – Educational Center of HTP.
+Course: Java programming
+>- **December 2012** – Belarusian State University of Informatics and Radioelectronics
+Specialization: Methods and systems of information protection, information security. Master degree
+>- **March 2012** – Belarusian State University
+Specialization: Information technology software.
+>- **June 2010** – Belarussian State Pedagogical University named after M. Tank
+Specialization: Mathematics and computer science.
+
+## English
+>- B1-B2 
+>- **September 2016 – May 2017** – Military Academy of the Republic of Belarus
+Course: English for lecturers
